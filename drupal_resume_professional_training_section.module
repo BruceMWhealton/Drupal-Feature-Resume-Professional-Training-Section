@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Drupal Resume Professional Training Section feature.
+ */
+
+include_once 'drupal_resume_professional_training_section.features.inc';
